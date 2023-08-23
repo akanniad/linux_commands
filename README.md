@@ -42,7 +42,7 @@ Contributions to this repository are welcome! If you have a command that you fin
 3. Add your command file along with a clear explanation of its usage.
 4. Submit a pull request, and your changes will be reviewed by the repository maintainers.
 
-Please ensure that your contributions align with the quality and style of the existing commands. Keep the explanations concise and easy to understand.
+Please ensure that your contributions align with the quality and style of the existing commands. Keep the explanations concise and easy to understand
 
 ## License
 
