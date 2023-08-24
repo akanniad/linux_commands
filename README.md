@@ -50,4 +50,4 @@ This repository is available under the [MIT License](LICENSE). You are free to u
 
 ---
 
-Happy command-lining! If you have any questions, suggestions, or improvements for this repository, please don't hesitate to open an issue or reach out to us. Your feedback is highly appreciated.
+Happy command-lining! If you have any questions, suggestions, or improvements for this repository, please don't hesitate to open an issue or reach out to us. Your feedback is highly appreciated.a
